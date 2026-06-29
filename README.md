@@ -1,2 +1,2 @@
 # AAI-NER
-NER on Chinese aviation accident investigation (AAI) reports
+Named entity recognition for the China Aviation Accident Investigation (AAI) report
